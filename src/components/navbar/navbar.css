@@ -1,0 +1,6 @@
+.navbar-brand {
+    color: var(--siteColor) !important
+}
+.navbar-brand:hover {
+    color: var(--siteColorDarken10) !important
+}
